@@ -1,11 +1,5 @@
 ---
-title: "Jierui Miao"
+title: "Welcome to my site"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a studnet in University of Toronto, major in Statistics. I'm now enrolling STA302.
