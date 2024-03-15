@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my site"
+title: "Contact"
 ---
 
 You can contact me by this email: jierui.miao\@mail.utoronto.ca
+
+I am very happy to hear your voice here.
