@@ -1,5 +1,20 @@
 ---
-title: "Welcome to my site"
+title: "Information about me"
 ---
 
-I am a studnet in University of Toronto, major in Statistics. I'm now enrolling STA302.
+**Bio**
+
+Jierui Miao is a third year student at the University of Toronto pursuing a degree in Statistics. In addition to my major, I am also interested in new media and the environment, and I am currently pursuing a minor in Environmental Studies.
+
+Outside of my busy daily life, my most precious moments are the ones where I get to travel. Traveling for me is not just an escape from the hustle and bustle of everyday life, but a way to explore the unknown and expand my horizons. I like to fill my backpack with essentials and then casually choose a destination, whether it is the magnificence of mountains, the vastness of the ocean, or the bustle of a city, each trip brings me different feelings and inspiration. It will also give me some new understanding of the course Environmental Studies. Every time I go to a new place, I will use my camera to record the unique scenery and moments there. These photos and notes are not only my precious memories, but also my way of sharing my travel stories and experiences with my family and friends.
+
+Traveling makes me realize the vastness of the world and the infinite possibilities of life, and every time I return, I feel energized and full of energy. For me, traveling is not just a leisure activity, it is part of my life, a process of continuous growth and learning.
+
+**CV**
+
+Welcome to my personal website, which features my resume and some personal information.
+
+Here is [My CV] and you can find contact information in it.
+
+[My CV](cvJierui.pdf)
+
